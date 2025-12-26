@@ -27,6 +27,7 @@
 | Mukut kumar            | MK-codes365         | UIET (CSJMU) Kanpur            |
 | Mannat Jain           |mannatjain11465-netizen| IIIT Allahabad               |
 | Adarsh Shankar Rai      | Adarshrai24          | BIET Jhansi                    |
+| Aaditya Maurya | aadityamaurya31 | IIIT Allahabad |
 
 <!-- ADD ABOVE THIS -->
 <!-- example | Korvac | Betty41 | Reyansh College | -->
